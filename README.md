@@ -8,7 +8,7 @@
 - INTRODUCCIÓN
    - 1.- Utilización de archivos de firmas para consultar datos de series temporales
    - 2.- Generador de JSON e indexado........................................................................................................
-   - 3.- Ejecutable principal de la práctica....................................................................................................
+   - 3.- Ejecutable principal....................................................................................................
 
 
 ## INTRODUCCIÓN
@@ -126,7 +126,7 @@ Indexar: tras haber subido el archivo a indexar y dar click en este botón, se i
 colección en Elasticsearch (por supuesto, se debe tener abierto Elasticsearch). La aplicación se
 cerrará una vez la indexación haya finalizado.
 
-### 3.- Ejecutable principal de la práctica....................................................................................................
+### 3.- Ejecutable principal ....................................................................................................
 
 Además del .exe (hecho en C#), está también un fichero Python (.py) con el cual se lanzará el
 programa como tal. Si se ejecuta correctamente (se necesita instalar Elasticsearch en Python a
