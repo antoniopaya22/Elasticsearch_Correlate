@@ -1,0 +1,16 @@
+E:\UniOvi\Tercero\Repositorios Informacion\Practicas\ElasticSearch\Trabajo\DocumentGenerator\DocumentGenerator\bin\Debug\DocumentGenerator.exe.config
+E:\UniOvi\Tercero\Repositorios Informacion\Practicas\ElasticSearch\Trabajo\DocumentGenerator\DocumentGenerator\bin\Debug\DocumentGenerator.exe
+E:\UniOvi\Tercero\Repositorios Informacion\Practicas\ElasticSearch\Trabajo\DocumentGenerator\DocumentGenerator\bin\Debug\DocumentGenerator.pdb
+E:\UniOvi\Tercero\Repositorios Informacion\Practicas\ElasticSearch\Trabajo\DocumentGenerator\DocumentGenerator\obj\Debug\DocumentGenerator.csprojResolveAssemblyReference.cache
+E:\UniOvi\Tercero\Repositorios Informacion\Practicas\ElasticSearch\Trabajo\DocumentGenerator\DocumentGenerator\obj\Debug\DocumentGenerator.DocumentGenerator.resources
+E:\UniOvi\Tercero\Repositorios Informacion\Practicas\ElasticSearch\Trabajo\DocumentGenerator\DocumentGenerator\obj\Debug\DocumentGenerator.Properties.Resources.resources
+E:\UniOvi\Tercero\Repositorios Informacion\Practicas\ElasticSearch\Trabajo\DocumentGenerator\DocumentGenerator\obj\Debug\DocumentGenerator.csproj.GenerateResource.Cache
+E:\UniOvi\Tercero\Repositorios Informacion\Practicas\ElasticSearch\Trabajo\DocumentGenerator\DocumentGenerator\obj\Debug\DocumentGenerator.csproj.CoreCompileInputs.cache
+E:\UniOvi\Tercero\Repositorios Informacion\Practicas\ElasticSearch\Trabajo\DocumentGenerator\DocumentGenerator\obj\Debug\DocumentGenerator.exe
+E:\UniOvi\Tercero\Repositorios Informacion\Practicas\ElasticSearch\Trabajo\DocumentGenerator\DocumentGenerator\obj\Debug\DocumentGenerator.pdb
+E:\UniOvi\Tercero\Repositorios Informacion\Practicas\ElasticSearch\Trabajo\DocumentGenerator\DocumentGenerator\bin\Debug\Elasticsearch.Net.dll
+E:\UniOvi\Tercero\Repositorios Informacion\Practicas\ElasticSearch\Trabajo\DocumentGenerator\DocumentGenerator\bin\Debug\Nest.dll
+E:\UniOvi\Tercero\Repositorios Informacion\Practicas\ElasticSearch\Trabajo\DocumentGenerator\DocumentGenerator\bin\Debug\Newtonsoft.Json.dll
+E:\UniOvi\Tercero\Repositorios Informacion\Practicas\ElasticSearch\Trabajo\DocumentGenerator\DocumentGenerator\bin\Debug\Elasticsearch.Net.xml
+E:\UniOvi\Tercero\Repositorios Informacion\Practicas\ElasticSearch\Trabajo\DocumentGenerator\DocumentGenerator\bin\Debug\Nest.xml
+E:\UniOvi\Tercero\Repositorios Informacion\Practicas\ElasticSearch\Trabajo\DocumentGenerator\DocumentGenerator\bin\Debug\Newtonsoft.Json.xml
