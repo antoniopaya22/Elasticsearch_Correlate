@@ -1,11 +1,6 @@
-# TRABAJO ELASTICSEARCH
+# ELASTICSEARCH CORRELATE
 
-TRABAJO SOBRE ELASTICSEARCH DE LA ASIGNATURA DE REPOSITORIOS DE
-INFORMACIÓN
-
-#### ANTONIO PAYÁ GONZÁLEZ UO
-
-#### PABLO DÍAZ RANCAÑO UO
+#### AUTOR: ANTONIO PAYÁ GONZÁLEZ 
 
 
 ## ÍNDICE:
@@ -22,9 +17,7 @@ Vamos a crear una aplicación que funcione de manera parecida a como lo hace Goo
 que a partir de una búsqueda encuentra otras búsquedas correlacionadas, así como su porcentaje
 de correlación y muestra una gráfica la comparación de ambas.
 
-## ELABORACIÓN DEL
-
-## TRABAJO
+## BASES TEÓRICAS
 
 ### 1.- Utilización de archivos de firmas para consultar datos de series temporales
 
